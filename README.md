@@ -1,2 +1,2 @@
 # Snake-game
-Snake-GUI-game
+This is snake game using turtle in python.
